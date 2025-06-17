@@ -55,8 +55,8 @@ main {
 }
 
 .badge-new {
-  color: white;
-  background-color: #2ecc71; /* grön: mild, modern */
+  background-color: #2ecc71 !important;
+  color: white !important;
   padding: 2px 6px;
   border-radius: 6px;
   font-size: 0.75em;
