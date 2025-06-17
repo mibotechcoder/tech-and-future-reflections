@@ -55,11 +55,13 @@ main {
 }
 
 .badge-new {
-  color: white;
-  background-color: red;
-  padding: 2px 6px;
-  border-radius: 6px;
-  font-size: 0.8em;
+  background-color: crimson;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 12px;
+  padding: 2px 8px;
+  font-size: 0.75em;
+  vertical-align: middle;
 }
 
 footer {
