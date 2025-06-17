@@ -55,13 +55,15 @@ main {
 }
 
 .badge-new {
-  background-color: crimson;
-  color: #fff;
-  font-weight: bold;
-  border-radius: 12px;
-  padding: 2px 8px;
+  color: white;
+  background-color: #2ecc71; /* grön: mild, modern */
+  padding: 2px 6px;
+  border-radius: 6px;
   font-size: 0.75em;
+  display: inline-block;
+  margin-left: 6px;
   vertical-align: middle;
+  font-weight: bold;
 }
 
 footer {
