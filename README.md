@@ -20,7 +20,7 @@ A collection of thought-provoking articles in Swedish on the impact of technolog
 10. Etik och mänskliga värderingar i en AI driven värld del2: Makt, moral och maskin
 11. Utopin är en lögn - AI kommer ersätta oss och det är med en förutbestämd mening!
 12. Samhällets anpassning till teknologiska framsteg.
-13. [En framtid fylld av möjligheter och undergång?](13_future-promise-or-collapse.md)
+13. [En framtid fylld av möjligheter och undergång?](Artikel13.pdf)
 14. (Kommande) Bias och ojämlikhet i algoritmer
 15. (Kommande)
 16. (Kommande)
