@@ -1,1 +1,0 @@
-Förra veckan läste jag nyligen, här på linkedin, Sam Altmans framtidsessä [The Gentle Singularity](https://www.linkedin.com/posts/genai-works_singularity-by-sam-altman-activity-7338907341355917313-6ACX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA9apIoB7VIyDbGBH-JlqIU9nxAHrZ40RAs)
