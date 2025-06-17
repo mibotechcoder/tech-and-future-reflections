@@ -67,3 +67,11 @@ footer a {
   text-decoration: none;
   font-weight: 500;
 }
+
+.badge-new {
+  color: white;
+  background-color: red;
+  padding: 2px 6px;
+  border-radius: 6px;
+  font-size: 0.8em;
+}
